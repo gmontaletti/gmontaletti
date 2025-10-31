@@ -1,16 +1,24 @@
-## Hi there 👋
+# Giampaolo Montaletti
 
-<!--
-**gmontaletti/gmontaletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page!  
+I am a statistician working as an independent consultant and academic. My expertise spans data analytics automation at scale, with a strong command of R and Unix environments.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Profession: Statistician, Independent Consultant, Academic
+- Technical Skills: R, Unix, Data Analytics Automation at Scale
+- Ownership: All projects and content here are my own.
+
+## Links
+
+- Personal Website: https://info.montaletti.com
+- LinkedIn: https://www.linkedin.com/in/giampaolomontaletti/
+- ORCID: https://orcid.org/0009-0002-5327-1122
+
+## Interests
+
+Beyond data analytics, I am passionate about art and enjoy exploring the history of the visibility of invisible things through reading and study.
+
+---
+
+Feel free to explore my repositories or connect with me via the links above!
